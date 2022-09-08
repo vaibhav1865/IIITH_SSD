@@ -1,0 +1,64 @@
+
+h1{
+    text-align: center; 
+    margin: auto;
+    width: 640px;
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #2E475D;
+    font-size: 50px; 
+}
+h2{
+    text-align: center;
+    margin: auto;
+    width: 640px;
+    padding: 100px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: black;
+    font-size: 30px; 
+}
+
+.addbtns
+{
+    text-align: center; 
+   
+
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: green;
+    color: white; 
+    margin: auto;
+    width: 640px;
+    padding: 10px;
+
+
+}
+
+.btn
+{
+    text-align: center; 
+
+    font-family: 'Lexend Deca', sans-serif;
+    background-color: red;
+    color: white;
+
+}
+::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    width: 50%;
+    
+  }
+tr:hover {background-color: #D6EEEE;}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 3px solid #DDD;
+  }
+
+

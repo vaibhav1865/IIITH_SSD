@@ -1,0 +1,57 @@
+
+h1{
+    text-align: center; margin: auto;width: 640px;padding: 50px;font-family: 'Lexend Deca', sans-serif;color: #2E475D;font-size: 50px; 
+}
+h2{
+    text-align: center;margin: auto;width: 640px;padding: 100px;font-family: 'Lexend Deca', sans-serif;color: black;font-size: 30px; 
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    width: 50%;
+    
+  }
+tr:hover {background-color: #D6EEEE;}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 3px solid #DDD;
+  }
+
+
+.login
+{    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     background-color: white;
+    text-align: center; margin: auto;width: 640px;padding: 50px;font-family: 'Lexend Deca', sans-serif;color: #2E475D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #73AD21;
+  
+    border-radius: 25px;
+    
+}
+.Index
+
+{  
+    background-color: #D6EEEE;
+    text-align: center; margin: auto;width: 640px;padding: 50px;font-family: 'Lexend Deca', sans-serif;color: #2E475D ; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+body{
+    background-color: #D6EEEE;
+}
+
+.btn:hover
+{
+background-image:none !important;
+background-color:#D6EEEE !important;
+}
