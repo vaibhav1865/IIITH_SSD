@@ -1,0 +1,1 @@
+select Mgr_ssn,count(*) as "Number of Project" from PROJECT,DEPARTMENT where Dnum=Dnumber AND  Dnumber= (select Dnum from PROJECT where Pname="ProductY") group by Mgr_ssn;

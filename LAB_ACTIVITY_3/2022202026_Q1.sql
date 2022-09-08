@@ -1,0 +1,1 @@
+select Fname,Minit,Lname,Dnumber,Dname From EMPLOYEE,DEPARTMENT where SSN IN(select Essn from WORKS_ON where Hours<40) AND Mgr_ssn=Ssn;
