@@ -1,0 +1,30 @@
+H1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0 auto;}
+
+ form {
+    font-size: 30px;
+    height: 450px;
+    margin: auto;
+    position: relative;
+   } 
+
+.sumbtn{
+
+height: 50px;
+width: 100px;
+}
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+
